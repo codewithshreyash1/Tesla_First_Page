@@ -1,0 +1,177 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+  position: fixed;
+   padding: 1rem;
+   top: 0;
+   right: 0;
+   left: 0;
+   font-weight: 550rem;
+}
+
+nav img{
+    width: 10rem;
+}
+.left{
+    padding: 0.5rem;
+    
+}
+.middle a{
+    text-decoration: none;
+    color: black;
+    padding: 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.right i{
+    padding: 0.5rem;
+    font-size: 1.3rem;
+}
+
+#hero{
+    height: 100vh;
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-3-Desktop-LHD-v2.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.upper{
+    text-align: center;
+
+}
+
+.upper h1{
+    font-size: 2.7rem;
+    padding-bottom: 1rem;
+}
+
+.upper h2{
+    padding-bottom: 1rem;
+}
+
+.lower{
+    display: flex;
+    padding: 0rem 0;
+    margin-bottom: -3rem;
+    gap: 2rem;
+}
+
+.leftb button {
+   padding: 0.7rem 6rem ;
+   border-radius: 0.3rem;
+   border: none;
+   font-weight: 600rem;
+}
+
+.rightb button {
+    padding: 0.7rem 6rem ;
+    background-color: black;
+    color: white;
+   border-radius: 0.3rem;
+    border: none;
+    font-weight: 600rem;
+ }
+ 
+ #home{
+    height: 100vh;
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-Y-Desktop-Global.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.upper1{
+    text-align: center;
+
+}
+
+.upper1 h1{
+    font-size: 2.7rem;
+    padding-bottom: 1rem;
+}
+
+.upper1 h2{
+    padding-bottom: 1rem;
+}
+
+.lower1{
+    display: flex;
+    padding: 0rem 0;
+    margin-bottom: -3rem;
+    gap: 2rem;
+}
+
+.leftb1 button {
+   padding: 0.7rem 6rem ;
+   border-radius: 0.3rem;
+   border: none;
+   font-weight: 600rem;
+}
+
+.rightb1 button {
+    padding: 0.7rem 6rem ;
+    background-color: black;
+    color: white;
+   border-radius: 0.3rem;
+    border: none;
+    font-weight: 600rem;
+ }
+ 
+ #home2{
+    height: 100vh;
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-X-Desktop-v2.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.upper2{
+    text-align: center;
+
+}
+
+.upper2 h1{
+    font-size: 2.7rem;
+    padding-bottom: 1rem;
+}
+
+.upper2 h2{
+    padding-bottom: 1rem;
+}
+
+.lower2{
+    display: flex;
+    padding: 0rem 0;
+    margin-bottom: -3rem;
+    gap: 2rem;
+}
+
+.leftb2 button {
+   padding: 0.7rem 6rem ;
+   border-radius: 0.3rem;
+   border: none;
+   font-weight: 600rem;
+}
+
+.rightb2 button {
+    padding: 0.7rem 6rem ;
+    background-color: black;
+    color: white;
+   border-radius: 0.3rem;
+    border: none;
+    font-weight: 600rem;
+ }
+ 
